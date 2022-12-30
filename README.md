@@ -6,7 +6,7 @@ I will add the resources here as well. For the majority of the topics, I am usin
 
 
 
-##References:
+## References:
 [Neural Networks From Scratch](https://nnfs.io/)
 
 
